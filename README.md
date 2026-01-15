@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey!! I am Iffah Sarang
 I am a Computer Science and Technology undergraduate specializing in Artificial Intelligence & Machine Learning at Anjuman-I-Islam Kalsekar Technical Campus. My interests lie at the intersection of AI, software engineering, and user-centric problem solving, where I focus on building solutions that are both technically sound and practically impactful.
 
 
@@ -12,8 +12,13 @@ I am a Computer Science and Technology undergraduate specializing in Artificial 
 ![](https://nirzak-streak-stats.vercel.app/?user=Iffah-25&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iffah-25&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Iffah-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
